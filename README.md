@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Olá, seja bem vindo ao meu perfil no GitHub 👋
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=dujuniorrr)
