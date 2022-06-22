@@ -21,5 +21,5 @@
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/105893394/175117338-ab16270d-ae84-48c6-bb85-9d42871ccc22.gif" width="800" height="600"/> 
+<img src="https://user-images.githubusercontent.com/105893394/175117338-ab16270d-ae84-48c6-bb85-9d42871ccc22.gif" width="400" height="300"/> 
 
