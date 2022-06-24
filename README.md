@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/105893394/175117338-ab16270d-ae84-48c6-bb85-9d42871ccc22.gif" width="400" height="300"/> 
 
 ### Olá, seja bem vindo ao meu perfil no GitHub 👋
 
@@ -18,8 +19,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90" height="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90" height="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="90" height="90" />
 </div>
  
-<br>
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/105893394/175117338-ab16270d-ae84-48c6-bb85-9d42871ccc22.gif" width="400" height="300"/> 
+
+
 
