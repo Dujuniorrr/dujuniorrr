@@ -28,7 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" /> 
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" /> 
-          
+<img src=" https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/yologo_2-768x408.png" width="50" height="50" /> 
+         
 </div>
  
 
