@@ -27,6 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" /> 
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" /> 
           
 </div>
  
