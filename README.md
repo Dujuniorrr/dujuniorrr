@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise  e Desenvolvimento de Sistemas, também sou um cara viciado em programar e modelar sistemas com arquiteturas sólidas. Adoro passar por todas as etapas da Engenharia de Software durante um projeto, desde o levamento de requisito, modelagem e planejamento até o desenvolvimento e implantação.<br><br>- 🔭  Atualmente estou estagiando na VISDOM Tecnologia da informação ...<br>- 📚  Estou usando Laravel e Vue.js no meu estágio, e aprendendo Node.js na faculdade ...<br>- ⚡ Em meu tempo livre gosto de assistir filmes e estudar sobre cinema ...</p>
+<p align="left">Sou estudante de Análise  e Desenvolvimento de Sistemas, também sou um cara viciado em programar e modelar sistemas com arquiteturas sólidas. Adoro passar por todas as etapas da Engenharia de Software durante um projeto, desde o levamento de requisito, modelagem e planejamento até o desenvolvimento e implantação.<br><br>- 🔭  Atualmente estou estagiando na VISDOM Tecnologia da informação ...<br>- 📚  Estou usando Laravel e Vue.js no meu estágio, aprendendo Node.js na faculdade e utilizando Redes Neurais Convulacionais em meu TCC ...<br>- ⚡ Em meu tempo livre gosto de assistir filmes e estudar sobre cinema ...</p>
 
 ###
 
