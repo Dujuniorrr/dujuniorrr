@@ -1,7 +1,8 @@
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
-
 
 ###
 
@@ -11,19 +12,19 @@
 
 ###
 
-<h1 align="center">Olá pessoal! 👋</h1>
+<h1 align="center">Hello everyone! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">Sou um desenvolvedor web, viciado em programar e modelar sistemas com arquiteturas limpas e modulares. Adoro passar por todas as etapas da Engenharia de Software durante um projeto, desde o levamento de requisitos, modelagem e planejamento até o desenvolvimento, testes e implantação.<br> 
+<p align="left">I am a web developer with a passion for programming and designing systems with clean and modular architectures. I enjoy being involved in all stages of software engineering during a project, from requirements elicitation, modeling, and planning to development, testing, and deployment.<br> 
 
 ###
 
-<h3 align="left">:computer: Stack Principal</h3>
+<h3 align="left">:computer: Main Stack</h3>
 
 ###
 
@@ -49,7 +50,7 @@
 
 ###
 
-<h3 align="left">🛠 Outras Tecnologias</h3>
+<h3 align="left">🛠 Other Technologies</h3>
 
 ###
 
@@ -90,4 +91,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dujuniorrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
