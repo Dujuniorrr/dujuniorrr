@@ -27,19 +27,6 @@ export class Dujuniorrr {
         { name: 'MongoDB', category: 'database' }
     ];
 
-    getAllTechnologies(): string[] {
-        return [
-            ...this.mainStack.map(tech => tech.name),
-            ...this.otherTechnologies.map(tech => tech.name)
-        ];
-    }
-
-    getTechnologiesByCategory(category: Technology['category']): string[] {
-        return [...this.mainStack, ...this.otherTechnologies]
-            .filter(tech => tech.category === category)
-            .map(tech => tech.name);
-    }
-
     getPresentationData(): PresentationData {
         return {
             role: this.role,
