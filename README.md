@@ -1,24 +1,23 @@
 ```typescript
-
 export class Dujuniorrr {
-    role = 'Web Developer';
+    private role: string = 'Web Developer';
 
-    greetingTitle = 'Hello everyone!';
+    private greetingTitle: string = 'Hello everyone!';
 
-    aboutMe = `I am a web developer with a passion for programming and designing systems with clean and modular architectures. I enjoy being involved in all stages of software engineering during a project — from requirements elicitation, modeling, and planning to development, testing, and deployment.`;
+    private aboutMe: string = `I am a web developer with a passion for programming and designing systems with clean and modular architectures. I enjoy being involved in all stages of software engineering during a project — from requirements elicitation, modeling, and planning to development, testing, and deployment.`;
 
-    mainStack: Technology[] = [
+    private mainStack: Technology[] = [
         { name: 'PHP', category: 'language' },
         { name: 'Laravel', category: 'framework' },
         { name: 'JavaScript', category: 'language' },
-        { name: 'Vue.js', category: 'frontend' },
+        { name: 'Vue.js', category: 'framework' },
         { name: 'MySQL', category: 'database' },
         { name: 'Docker', category: 'devops' }
     ];
 
-    otherTechnologies: Technology[] = [
+    private otherTechnologies: Technology[] = [
         { name: 'TypeScript', category: 'language' },
-        { name: 'Node.js', category: 'backend' },
+        { name: 'Node.js', category: 'ambient' },
         { name: 'Python', category: 'language' },
         { name: 'Django', category: 'framework' },
         { name: 'Java', category: 'language' },
@@ -27,7 +26,7 @@ export class Dujuniorrr {
         { name: 'MongoDB', category: 'database' }
     ];
 
-    getPresentationData(): PresentationData {
+    public getPresentationData(): PresentationData {
         return {
             role: this.role,
             greeting: this.greetingTitle,
