@@ -1,10 +1,14 @@
 ```typescript
 export class Dujuniorrr {
+
     private role: string = 'Web Developer';
 
     private greetingTitle: string = 'Hello everyone!';
 
-    private aboutMe: string = `I am a web developer with a passion for programming and designing systems with clean and modular architectures. I enjoy being involved in all stages of software engineering during a project — from requirements elicitation, modeling, and planning to development, testing, and deployment.`;
+    private aboutMe: string = `I am a web developer with a passion 
+                              for programming and designing systems with clean and modular architectures. 
+                              I enjoy being involved in all stages of software engineering during a project 
+                              — from requirements elicitation, modeling, and planning to development, testing, and deployment.`;
 
     private mainStack: Technology[] = [
         { name: 'PHP', category: 'language' },
@@ -50,4 +54,4 @@ type PresentationData = {
     otherTechnologies: Technology[];
 }
 
-```
+``` 
