@@ -1,5 +1,5 @@
 ```typescript
-export class Dujuniorrr {
+class Dujuniorrr {
 
     private role: string = 'Web Developer';
 
